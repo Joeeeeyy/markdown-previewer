@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.title-bar {
+    font-weight: 700;
+    background-color: #222f3e;
+}
+
+#editor,
+#preview {
+    font-weight: 500;
+    background-color: #60a3bc;
+}
+
+#sub-head {
+	background-color: #0a3d62;
+}
+
+.sub-header {
+    font-weight: 600;
+}
+textarea {
+	width: 458px;
+}
